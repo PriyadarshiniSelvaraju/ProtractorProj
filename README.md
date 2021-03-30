@@ -27,7 +27,11 @@ git clone "https://github.com/PriyadarshiniSelvaraju/ProtractorProj.git"
 cd ProtractorProj
 ```	
 
-## Run the Test Suite
+## Start the selenium server
 ```
-Run npm run webdriver-start to start the selenium server
-Command to start the test:  npm run start
+npm run webdriver-start
+
+## Run the test suite
+```	
+npm run start
+```	
