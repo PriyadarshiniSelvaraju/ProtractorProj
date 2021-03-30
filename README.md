@@ -31,6 +31,8 @@ cd ProtractorProj
 ```
 npm run webdriver-start
 
+```	
+
 ## Run the test suite
 ```	
 npm run start
