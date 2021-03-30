@@ -23,6 +23,7 @@ npm install
 ## Clone the repository
 ```	
 git clone "https://github.com/PriyadarshiniSelvaraju/ProtractorProj.git"
+
 cd ProtractorProj
 ```	
 
