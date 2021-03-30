@@ -27,18 +27,6 @@ git clone "https://github.com/PriyadarshiniSelvaraju/ProtractorProj.git"
 cd ProtractorProj
 ```	
 
-
-## Updating latest version of Chrome Driver 
-Locate ./package.json file
-Update "chromedriver:" version to your chrome version 
-Note: You will see the following error if the driver version mismatches
-"This version of ChromeDriver only supports Chrome version"
-```	
-"dependencies": {
-	"chromedriver": "^83.0",
-	"grunt-cli": "^1.2.0"
-}```
-
 ## Run the Test Suite
 ```
 Run npm run webdriver-start to start the selenium server
